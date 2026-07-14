@@ -23,7 +23,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/ArpitKumarGoel/React-Todo-CRUD.git](https://github.com/ArpitKumarGoel/React-Todo-CRUD.git)
+git clone https://github.com/ArpitKumarGoel/React-Todo-CRUD.git
 ```
 
 ### 2. Navigate to the project folder
