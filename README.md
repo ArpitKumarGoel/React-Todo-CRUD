@@ -12,6 +12,17 @@ Check out the live application here: **[React-Todo-CRUD Live Website](https://ar
 * **Delete:** Remove tasks instantly from the list.
 * **UI/UX:** Fully custom Dark Midnight-Blue gradient background with neon cyan accent lines.
 
+## 📂 Project Component Structure
+Here is how the React components are structured inside the `src` directory:
+
+* 📂 **`src/`**
+  * 📄 **`main.jsx`** - The main entry point of our React application that renders the App component.
+  * 📄 **`App.jsx`** - The root component that holds the global state (`todos`) and manages the main layout of the application.
+  * 📂 **`components/`**
+    * 📄 **`Form.jsx`** - Handles the input form for adding new tasks and editing existing ones. It passes the inputs back to `App.jsx`.
+    * 📄 **`Tables.jsx`** - Displays the list of tasks in a clean Bootstrap table with **Edit** and **Delete** action buttons.
+  * 📄 **`index.css`** - Custom dark midnight-blue gradient styles and glassmorphism UI rules.
+
 ## 🛠️ Tech Stack
 * **Frontend Library:** React JS (Hooks used: `useState`, `useEffect`)
 * **Styling:** Bootstrap 5 & Custom CSS (Glassmorphism & Gradients)
