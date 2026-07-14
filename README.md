@@ -1,16 +1,26 @@
-# React + Vite
+# 🚀 React Todo CRUD App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A premium, modern, and sleek Task Management (To-Do) application built with **React JS** and styled using **Bootstrap** with a custom dark-glassmorphism theme.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+Check out the live application here: **[React-Todo-CRUD Live Website](https://arpitkumargoel.github.io/React-Todo-CRUD/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+* **Create:** Add new tasks with titles and descriptions.
+* **Read:** View your active tasks in a beautifully integrated table.
+* **Update:** Edit existing tasks dynamically via state tracking.
+* **Delete:** Remove tasks instantly from the list.
+* **UI/UX:** Fully custom Dark Midnight-Blue gradient background with neon cyan accent lines.
 
-## React Compiler
+## 🛠️ Tech Stack
+* **Frontend Library:** React JS (Hooks used: `useState`,`useEffect`)
+* **Styling:** Bootstrap 5 & Custom CSS (Glassmorphism & Gradients)
+* **Build Tool:** Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Getting Started
 
-## Expanding the Oxlint configuration
+Follow these steps to run the project locally:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/ArpitKumarGoel/React-Todo-CRUD.git](https://github.com/ArpitKumarGoel/React-Todo-CRUD.git)
