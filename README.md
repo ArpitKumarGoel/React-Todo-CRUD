@@ -13,7 +13,7 @@ Check out the live application here: **[React-Todo-CRUD Live Website](https://ar
 * **UI/UX:** Fully custom Dark Midnight-Blue gradient background with neon cyan accent lines.
 
 ## 🛠️ Tech Stack
-* **Frontend Library:** React JS (Hooks used: `useState`,`useEffect`)
+* **Frontend Library:** React JS (Hooks used: `useState`, `useEffect`)
 * **Styling:** Bootstrap 5 & Custom CSS (Glassmorphism & Gradients)
 * **Build Tool:** Vite
 
@@ -21,6 +21,21 @@ Check out the live application here: **[React-Todo-CRUD Live Website](https://ar
 
 Follow these steps to run the project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/ArpitKumarGoel/React-Todo-CRUD.git](https://github.com/ArpitKumarGoel/React-Todo-CRUD.git)
+### 1. Clone the repository
+```bash
+git clone [https://github.com/ArpitKumarGoel/React-Todo-CRUD.git](https://github.com/ArpitKumarGoel/React-Todo-CRUD.git)
+```
+
+### 2. Navigate to the project folder
+```bash
+cd React-Todo-CRUD
+```
+### 3. Install the dependencies
+```bash
+npm install
+```
+### 4. Start the Local Development Server
+```bash
+npm run dev
+```
+Once the server starts, open your browser and go to http://localhost:5173 to see the app running!
